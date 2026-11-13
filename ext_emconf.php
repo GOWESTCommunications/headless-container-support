@@ -6,12 +6,12 @@ $EM_CONF[$_EXTKEY] = [
     'author' => 'Fabio Norbutat',
     'author_email' => 'fabio.norbutat@live.de',
     'state' => 'beta',
-    'version' => '3.0.0',
+    'version' => '4.0.0',
     'constraints' => [
         'depends' => [
-            'typo3' => '11.5.0-13.99.9',
-            'container' => '3.0.4-3.99.99',
-            'headless' => '1.6.0-4.99.99',
+            'typo3' => '11.5.0-14.99.9',
+            'container' => '3.0.4-4.99.99',
+            'headless' => '1.6.0-5.99.99',
         ]
     ],
 ];
